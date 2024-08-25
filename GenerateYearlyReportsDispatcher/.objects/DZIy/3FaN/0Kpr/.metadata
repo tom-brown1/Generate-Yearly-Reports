@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Browser",
+  "Type": "Screen",
+  "Id": "0KprW2CeuUKUOwXVE2dLWQ",
+  "Reference": "-8_vVobmmU-XOM5ufJOpcA/0KprW2CeuUKUOwXVE2dLWQ",
+  "ParentRef": "-8_vVobmmU-XOM5ufJOpcA/3FaNJi5ZwU-yQfYNE6cNpw",
+  "Created": "2024-08-23T14:49:48.7984946Z",
+  "Updated": "2024-08-23T14:57:29.9611008Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
