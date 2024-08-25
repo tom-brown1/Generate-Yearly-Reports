@@ -1,5 +1,5 @@
 # UiPath Generate Yearly Reports - Solution
-This repository contains the solution for the Generate Yearly Reports exercise from UiPath's RPA Developer Advanced Training. The project automates the process of generating and downloading monthly reports for multiple vendors, consolidating them into yearly reports, and uploading them to the UiPath Orchestrator.
+This repository contains the solution for the Generate Yearly Reports exercise from UiPath Academy Automation Developer Professional Training. The project automates the process of generating and downloading monthly reports for multiple vendors, consolidating them into yearly reports, and uploading them to the UiPath Orchestrator.
 
 # Features
 - Orchestrator Integration: Automates the retrieval of vendor details from the UiPath Orchestrator Queue.
